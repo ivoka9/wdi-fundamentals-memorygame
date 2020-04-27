@@ -5,6 +5,7 @@ var cardId;
 function works(){
   console.log("works")
 }
+// ok
 // TRIED but it didint work.. the event lisener never lisend...
 /*
 function createBoard() {
